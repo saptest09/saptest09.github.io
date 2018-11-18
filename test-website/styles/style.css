@@ -1,0 +1,33 @@
+html {
+font-family: 'Merriweather', serif;
+font-size: 10px;
+background-color: #E5A8A8;
+
+}
+
+body {
+ width : 600px;
+margin: 0 auto;
+background-color: #FF9500;
+padding:0 20px;
+border: 5px solid black;
+}
+h1 {
+margin: 0;
+padding: 20px 0;
+font-size: 60px;
+text-align: center;
+text-shadow: 3px 3px 1px pink;
+}
+
+img {
+  margin: 0 auto;
+  display: block;
+}
+p {
+  color : red;
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  letter-spacing: 2px;
+  line-height:1rem;
+}
